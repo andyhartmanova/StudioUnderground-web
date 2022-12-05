@@ -1,0 +1,31 @@
+/*aktuality*/
+#aktualita-1{
+background-image: url("../images/stoppers-2.jpg");
+}
+#aktualita-2{
+  background-image: url("../images/img_aktuality/opening.png");
+}
+#aktualita-3{
+  background-image: url("../images/SU_opening_mapa.svg");
+}
+
+/*prostory*/
+#img_garaz_1 {
+    background-image: url("../images/scena_2.jpg");
+  }
+  #img_garaz_2 {
+    background-image: url("../images/scena.jpg");
+  }
+  #img_sklep_1 {
+    background-image: url("../images/cinema.jpg");
+  }
+  #img_sklep_2 {
+    background-image: url("../images/dum.jpg");
+  }
+  #img_terasa_1 {
+    background-image: url("../images/stoppers-1.jpg");
+  }
+  #img_terasa_2 {
+    background-image: url("../images/stoppers-2.jpg");
+  }
+
